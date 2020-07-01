@@ -6,4 +6,4 @@ This was lying on my system, thought it might be of some use for others, so here
 
 Compile and provide a fortran file and it capitalizes the fortran keywords in the file.
 
-![image](https://github.com/sukhbinder/AutoCapitalizeFortranProgram/blob/master/images/autoCaps.png)
+![image](https://github.com/gitfounder/AutoCapitalizeFortranProgram/blob/master/images/autoCaps.png)
